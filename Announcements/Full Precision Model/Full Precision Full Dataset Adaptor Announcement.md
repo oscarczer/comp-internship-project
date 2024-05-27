@@ -36,7 +36,7 @@ BALANCE SHEET:
 * Total liabilities: $3,323,729  
 * Stockholders' equity: $5,180,047  
 
-MANAGEMENT'S DISCUSSION AND ANALYSIS: 
+MANAGEMENT'S DISCUSSION AND ANALYSIS:  
 The Company's performance for the year ended December 31, 2022, was outstanding. The Company's revenue increased by 25% over the previous year, primarily due to the launch of the Company's new cybersecurity product, IP Hone. The Company's net income also increased by 20% over the previous year, primarily due to the Company's cost-cutting measures and increased efficiency.  
 
 The Company's cash flow from operations increased by 30% over the previous year, primarily due to the Company's improved profitability and reduced working capital requirements. The Company's cash flow from investing activities increased by 20% over the previous year, primarily due to the Company's investment in new equipment and technology.  
