@@ -38,6 +38,7 @@ Key Financial Ratios:
 
 Management's Discussion and Analysis:  
 The cyber security landscape has become increasingly complex and challenging in recent times, with growing threats from nation-state actors, advanced persistent threats, and other malicious actors. Bpple Inc. has continued to invest in research and development to stay ahead of these threats and deliver innovative security solutions to our customers.  
+
 Looking ahead, we remain committed to delivering high-quality security solutions that meet the evolving needs of our customers. We are confident that our investments in research and development will position us for long-term growth and success.  
 
 On behalf of the Board of Directors,  
