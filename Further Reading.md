@@ -18,14 +18,14 @@ For the purpose of this research I have chosen to use the Llama 2 7B parameter m
 ##### GPT Dataset
 This dataset was created through manual prompting of OpenAI's GPT 4. It required first generating one entry and then asking for the bot to generate more bit by bit. The process was slightly tedious as it could only create ~3 entries at a time however it created entries that were of very high quality and exactly what we wanted for the task. As GPT 4 is a much larger model than LLama 2 7B, the results that it could generate off the bat were substantially better and more importantly, good enough to act as a guide for the sort of documents the Llama model could strive to output. 
 
-In the end this dataset ended up only being 100 entries which took maybe 2 hours to create. Actually training the adaptor with it only took about 5 minutes and it resulted in an adaptor that was 80mb (barely significant when comparing to the size of the models))
+In the end this dataset ended up only being 100 entries which took maybe 2 hours to create. Actually training the adaptor with it only took about 5 minutes and it resulted in an adaptor that was 80mb (barely significant when comparing to the size of the models)
 ##### Full Dataset
 This dataset was collated using a series of datasets available from the Hugging Face platform, a site for LLM researchers and hobbyists to share models and datasets in a collaborate, open source environment. Pieces of each of the following datasets were used 
 
-[FinGPT/fingpt-ner](https://huggingface.co/datasets/FinGPT/fingpt-ner)
-[FinGPT/fingpt-sentiment-train](https://huggingface.co/datasets/FinGPT/fingpt-sentiment-train)
-[FinGPT/fingpt-fiqa_qa](https://huggingface.co/datasets/FinGPT/fingpt-fiqa_qa)
-[zeroshot/twitter-financial-news-sentiment](https://huggingface.co/datasets/zeroshot/twitter-financial-news-sentiment)
+- [FinGPT/fingpt-ner](https://huggingface.co/datasets/FinGPT/fingpt-ner)
+- [FinGPT/fingpt-sentiment-train](https://huggingface.co/datasets/FinGPT/fingpt-sentiment-train)
+- [FinGPT/fingpt-fiqa_qa](https://huggingface.co/datasets/FinGPT/fingpt-fiqa_qa)
+- [zeroshot/twitter-financial-news-sentiment](https://huggingface.co/datasets/zeroshot/twitter-financial-news-sentiment)
 
 And contains data based on financial sentiment, extracting financial information from prompts and general financial knowledge. The final dataset does not contain all of the entries from each of the above (which would be close to 100k) and instead reaches about 15k entires total. Training the adaptor with this took a bit over 2 hours and the size of said adaptor was somehow smaller at only 67.3mb
 
