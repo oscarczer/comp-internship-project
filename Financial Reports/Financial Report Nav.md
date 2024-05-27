@@ -22,4 +22,4 @@
   - Pretty sure the numbers don't make sense ($25.7 mil in revenue and only $10.2 mil in listed expenses but net loss of $3.5 mil). For our use case this is not of huge note (although I'm sure an accountant might say otherwise...)
   - - \[Your Name] in the sign off
 - [Full Bit Dataset Adaptor](4%20Bit%20Precision%20Model/4%20Bit%20Precision%20Full%20Dataset%20Adaptor%20Financial%20Report.md) ✅✅✅
-  - Only issues the \[Your Name] sign off again
+  - Only issue is the \[Your Name] sign off again
