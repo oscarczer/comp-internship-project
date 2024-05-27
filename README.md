@@ -14,10 +14,10 @@ The following input was provided in front of each of the document type specific 
 > Be sure to provide a realistic fictional name anytime that someone's name is mentioned in the report, including when signing off. 
 
 ### Reviews:
-❎ - Actively pretty bad. One look and you can tell it's fake \n
-✅ - Not fantastic but if just skimming may pass as real \n
-✅✅ - Not perfect but usable for general purposes \n
-✅✅✅ - Perfect / near perfect \n
+❎ - Actively pretty bad. One look and you can tell it's fake  
+✅ - Not fantastic but if just skimming may pass as real   
+✅✅ - Not perfect but usable for general purposes   
+✅✅✅ - Perfect / near perfect   
 
 - [[Financial Report Nav| Financial Reports]]
 - [[Budget Nav| Budgets]]
