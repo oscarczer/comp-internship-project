@@ -1,8 +1,6 @@
 ### Prompt: 
 > Write me an example income statement for a fictional company named "Bpple Inc" that produces cyber security solutions. Their last financial year has shown consistent, small but steady growth
 
-[Budgets](Budgets/Budget Nav.md)
-
 ### Results:
 **Full Precision**
 - [No Adaptor](Full%20Precision%20Model/Full%20Precision%20No%20Adaptor%20Income%20Statement.md) ✅
