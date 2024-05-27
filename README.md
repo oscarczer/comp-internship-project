@@ -18,7 +18,7 @@ The following input was provided in front of each of the document type specific 
 ### Reviews:
 ❎ - Actively pretty bad. One look and you can tell it's fake  
 ✅ - Not fantastic but if just skimming may pass as real   
-✅✅ - Not perfect but still usable for general purposes
+✅✅ - Not perfect but still usable for general purposes  
 ✅✅✅ - Perfect / near perfect   
 
 - [Financial Reports](Financial%20Reports/Financial%20Report%20Nav.md)
