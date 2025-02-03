@@ -1,4 +1,4 @@
-# How can QLoRA PEFT utilised to improve offline financial document generation with Llama 2 7B
+# How can QLoRA PEFT be utilised to improve offline financial document generation with Llama 2 7B
 
 ### Introduction
 This Github repository contains all of the results for my internship project for Semester 1, 2024. For proprietary reasons I cannot share the code used to develop these results however this repo should contain all of the information required to get a general overview of what I did, why I did it and what the final results looked like. For information on the "what" and "why", please see the [Further Reading Page](Further%20Reading.md). As for the results themselves, below is a scale that I have used to rate each of the documents based on how realistic and usable they would be (with the assumption of some post processing) for the purposes of deception within the cyber security field. 
